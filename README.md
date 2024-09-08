@@ -11,6 +11,14 @@ The primary purpose of this repository is to document and showcase my work in th
 - **2024-8-28 PasswordStore Audit**
   - **File**: [2024-8-28-PasswordStore-audit.pdf](./2024-8-28-PasswordStore-audit.pdf)
   - **Summary**: This report includes a thorough audit of the PasswordStore protocol, highlighting critical vulnerabilities and providing recommendations for enhancing security.
+ 
+- **2024-9-2 PuppyRaffle Audit**
+  - **File**: [2024-9-2-PuppyRaffle-audit.pdf](./2024-9-2-PuppyRaffle-audit.pdf)
+  - **Summary**: This report includes a thorough audit of the PuppyRaffle protocol, highlighting critical vulnerabilities and providing recommendations for enhancing security.
+ 
+- **2024-9-3 PuppyRaffle Audit**
+  - **File**: [2024-9-3-MyCut-competitive-audit.pdf](./2024-9-3-MyCut-competitive-audit.pdf)
+  - **Summary**: This report presents a compilation of vulnerabilities from a competitive audit of the MyCut protocol, identifying potential security risks and providing insights for mitigation.
 
 ## Future Work
 
